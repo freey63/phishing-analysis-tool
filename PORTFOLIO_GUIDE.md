@@ -39,7 +39,7 @@ To solve this, I built a modular Python & Streamlit analysis engine that automat
 🔹 Explainable Scoring: Generates a 0–100 risk score, maps findings to MITRE ATT&CK, and produces SOC ticketing notes and perimeter blocklists.
 🔹 Automated CI/CD: 48 automated tests run via GitHub Actions.
 
-Check out the code on GitHub: [Your GitHub URL]
+Check out the code on GitHub: https://github.com/freey63/phishing-analysis-tool
 #Cybersecurity #SOC #PhishingAnalysis #ThreatIntelligence #Python #BlueTeam #InfoSec
 ```
 

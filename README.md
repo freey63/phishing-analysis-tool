@@ -1,6 +1,6 @@
 # 🛡️ AI-Assisted Phishing Analysis Tool
 
-[![CI](https://github.com/actions/workflows/ci.yml/badge.svg)](https://github.com)
+[![CI](https://github.com/freey63/phishing-analysis-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/freey63/phishing-analysis-tool/actions)
 ![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.49+-FF4B4B?logo=streamlit)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-critical)
