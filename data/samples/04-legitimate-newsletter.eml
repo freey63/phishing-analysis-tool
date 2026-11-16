@@ -1,0 +1,40 @@
+Return-Path: <bounce@news.example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+	by mx.example.org with ESMTP id 11BB;
+	Thu, 12 Nov 2026 08:00:03 +0000
+Authentication-Results: mx.example.org;
+	spf=pass smtp.mailfrom=news.example.com;
+	dkim=pass header.d=example.com;
+	dmarc=pass header.from=example.com
+From: "Example Security Weekly" <news@example.com>
+To: subscriber@example.org
+Subject: Example Security Weekly - November edition
+Date: Thu, 12 Nov 2026 07:59:40 +0000
+Message-ID: <news-2026-11.4411@example.com>
+List-Unsubscribe: <https://example.com/unsubscribe>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Newsletter_2026_11"
+
+------=_Newsletter_2026_11
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+This month we look at password hygiene, patch management and how to recognise
+phishing emails. Thanks for reading.
+
+Read the full issue: https://example.com/newsletter/november
+
+You are receiving this because you subscribed.
+Unsubscribe: https://example.com/unsubscribe
+
+------=_Newsletter_2026_11
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+  <h1>Example Security Weekly</h1>
+  <p>This month: password hygiene, patch management and recognising phishing.</p>
+  <p><a href="https://example.com/newsletter/november">Read the full issue</a></p>
+</body></html>
+
+------=_Newsletter_2026_11--

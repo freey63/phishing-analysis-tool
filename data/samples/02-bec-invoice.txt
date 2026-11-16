@@ -1,0 +1,22 @@
+Return-Path: <r.chen@acmecorp-finance.com>
+From: "Robert Chen (CEO)" <r.chen@acmecorp-finance.com>
+Reply-To: "Robert Chen" <robert.chen.ceo@gmail.com>
+To: finance@acmecorp.com
+Subject: CONFIDENTIAL - urgent wire transfer before 5pm
+Date: Tue, 10 Nov 2026 15:42:10 +0000
+Message-ID: <8831.20261110@acmecorp-finance.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Sarah,
+
+I'm in a board meeting and can't talk. We are acquiring a supplier today and
+I need you to process an urgent wire transfer of $48,500 before 5pm.
+
+Please use the new bank details in the invoice. Do not discuss this with the
+rest of the team until the deal is signed - keep this confidential.
+
+Thanks,
+Robert
+
+Sent from my iPhone

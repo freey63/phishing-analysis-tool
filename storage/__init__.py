@@ -1,0 +1,1 @@
+"""Local persistence (JSONL history)."""
